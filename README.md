@@ -22,3 +22,5 @@ Pareto and Cause-Effect Charts
 Analytical Hierarchical Process (AHP)
 
 This comprehensive real-world implementation offers valuable insights into modern quality management practices in manufacturing.
+
+NOTE: The PDF of my Final Project Report & FRinal Project PPT are provided above.
